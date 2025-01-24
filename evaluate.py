@@ -8,9 +8,6 @@ from urllib.parse import urlparse
 
 
 
-os.environ['MLFLOW_TRACKING_URL'] = "https://dagshub.com/garvkhurana/firstmlopspipeline.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"] = "garvkhurana"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "00ffbefccd789ae963b92c71cfff3114090e5647"
 
 
 
